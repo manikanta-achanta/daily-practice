@@ -15,3 +15,10 @@ Day 1:learning how to make github contributions.
 
 ## Day 5
 -learned javascript loops.
+
+## Day 5
+-learned javascript functions.
+
+
+## Day 6
+-learned javascript arrays and array methods.

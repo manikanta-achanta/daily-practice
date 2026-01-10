@@ -1,0 +1,27 @@
+// Day 5: JavaScript Arrays
+
+// 1. Creating an array
+let numbers = [10, 20, 30, 40, 50];
+console.log(numbers);
+
+// 2. Accessing elements
+console.log("First element:", numbers[0]);
+console.log("Last element:", numbers[numbers.length - 1]);
+
+// 3. Looping through array
+for (let i = 0; i < numbers.length; i++) {
+  console.log("Number:", numbers[i]);
+}
+
+// 4. for...of loop
+for (let num of numbers) {
+  console.log("Using for...of:", num);
+}
+
+// 5. Array methods
+numbers.push(60);   // add at end
+numbers.pop();      // remove last
+numbers.unshift(5); // add at start
+numbers.shift();    // remove first
+
+console.log("After operations:", numbers);
