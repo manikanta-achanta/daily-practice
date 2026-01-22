@@ -32,3 +32,7 @@ javascript revision (variables,functions,arrays,objects,loops).
 
 ## Day 9
 - Learned JavaScript DOM basics (getElementById, innerText)
+
+## Day 10
+- Built a JavaScript Counter mini project using DOM and events
+
