@@ -42,5 +42,11 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 12
 - Practiced JavaScript array methods (map, filter, reduce)
 
+## Day 13
+- Learned JavaScript asynchronous basics (setTimeout, setInterval)
+
+
+
+
 
 
