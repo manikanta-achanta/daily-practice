@@ -46,6 +46,8 @@ javascript revision (variables,functions,arrays,objects,loops).
 - Learned JavaScript asynchronous basics (setTimeout, setInterval)
 
 
+## Day 14
+- Practiced JavaScript Promises (then, catch)
 
 
 
