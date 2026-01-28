@@ -49,6 +49,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 14
 - Practiced JavaScript Promises (then, catch)
 
+## Day 15
+- Practiced async/await with try-catch
+
+
 
 
 
