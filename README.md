@@ -52,6 +52,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 15
 - Practiced async/await with try-catch
 
+## Day 16
+- Practiced JavaScript Fetch API using async/await
+
+
 
 
 
