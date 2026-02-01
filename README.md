@@ -55,6 +55,14 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 16
 - Practiced JavaScript Fetch API using async/await
 
+## Day 17
+- Practiced JavaScript error handling using try, catch, and finally
+
+## Day 18
+- Practiced JavaScript ES6 features (arrow functions, destructuring, spread)
+
+
+
 
 
 
