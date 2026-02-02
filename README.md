@@ -61,6 +61,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 18
 - Practiced JavaScript ES6 features (arrow functions, destructuring, spread)
 
+## Day 19
+- Practiced JavaScript ES6 modules (import and export)
+
 
 
 
