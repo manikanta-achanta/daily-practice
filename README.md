@@ -64,6 +64,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 19
 - Practiced JavaScript ES6 modules (import and export)
 
+## Day 20
+- Practiced JavaScript classes and OOP basics
+
+
 
 
 
