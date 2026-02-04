@@ -67,6 +67,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 20
 - Practiced JavaScript classes and OOP basics
 
+## Day 21
+- Practiced advanced ES6 features (Map, Set, rest, default parameters)
+
+
 
 
 
