@@ -70,6 +70,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 21
 - Practiced advanced ES6 features (Map, Set, rest, default parameters)
 
+## Day 22
+- Refactored JavaScript code using ES6 syntax
+
+
 
 
 

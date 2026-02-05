@@ -13,6 +13,9 @@ let doubled = numbers.map(function (num) {
 });
 console.log("map:", doubled);
 
+
+
+
 // filter
 let evenNumbers = numbers.filter(function (num) {
   return num % 2 === 0;

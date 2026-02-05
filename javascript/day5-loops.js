@@ -1,4 +1,10 @@
 
+// Day 22: Revised array examples
+// Added comments for better understanding
+
+
+
+
 //For loop
 for (let i = 1; i <= 5; i++) {
   console.log(i);

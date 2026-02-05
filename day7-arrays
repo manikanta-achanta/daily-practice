@@ -25,3 +25,6 @@ numbers.unshift(5); // add at start
 numbers.shift();    // remove first
 
 console.log("After operations:", numbers);
+
+const doubled = numbers.map(num => num * 2);
+
