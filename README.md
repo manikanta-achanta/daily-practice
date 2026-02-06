@@ -73,6 +73,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 22
 - Refactored JavaScript code using ES6 syntax
 
+## Day 23
+- Built mini project using Fetch API and DOM to display users
+
+
 
 
 
