@@ -76,6 +76,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 23
 - Built mini project using Fetch API and DOM to display users
 
+## Day 25
+- Practiced JavaScript localStorage (save, load, clear data)
+
+
 
 
 
