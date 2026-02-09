@@ -79,6 +79,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 25
 - Practiced JavaScript localStorage (save, load, clear data)
 
+## Day 26
+- Added basic CSS styling to localStorage project
+
+
 
 
 
