@@ -86,6 +86,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 26
 - Added basic CSS styling to localStorage project
 
+## Day 27
+- Organized project folders and added documentation
+
+
 
 
 
