@@ -89,6 +89,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 27
 - Organized project folders and added documentation
 
+## Day 28
+- Added JavaScript interview preparation notes
+
+
 
 
 
