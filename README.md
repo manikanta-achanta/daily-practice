@@ -92,6 +92,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 28
 - Added JavaScript interview preparation notes
 
+## Day 29
+- Added advanced JavaScript interview notes (closures, hoisting, event loop)
+
+
 
 
 
