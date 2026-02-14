@@ -120,7 +120,11 @@ javascript revision (variables,functions,arrays,objects,loops).
 - API + DOM User List
 - Local Storage Example
 
-This repository represents 30 days of consistent learning and practice.
+## Day 31
+- Deep dive into JavaScript closures
+
+
+
 
 
 
