@@ -123,6 +123,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 31
 - Deep dive into JavaScript closures
 
+## Day 32
+- Studied JavaScript event loop (call stack, microtasks, macrotasks)
+
+
 
 
 
