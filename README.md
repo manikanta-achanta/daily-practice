@@ -126,6 +126,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 32
 - Studied JavaScript event loop (call stack, microtasks, macrotasks)
 
+## Day 33
+- Studied JavaScript prototypal inheritance and prototype chain
+
+
 
 
 
