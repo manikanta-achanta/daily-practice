@@ -129,6 +129,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 33
 - Studied JavaScript prototypal inheritance and prototype chain
 
+## Day 34
+- Studied deep behavior of "this" keyword in JavaScript
+
+
 
 
 
