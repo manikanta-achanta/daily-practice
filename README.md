@@ -132,6 +132,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 34
 - Studied deep behavior of "this" keyword in JavaScript
 
+## Day 35
+- Implemented debounce and throttle functions
+
+
 
 
 
