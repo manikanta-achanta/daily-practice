@@ -135,6 +135,10 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 35
 - Implemented debounce and throttle functions
 
+## Day 36
+- Practiced call, apply, and bind methods in JavaScript
+
+
 
 
 
