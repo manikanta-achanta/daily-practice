@@ -138,6 +138,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 36
 - Practiced call, apply, and bind methods in JavaScript
 
+## Day 37
+- Studied currying in JavaScript
+
 
 
 
