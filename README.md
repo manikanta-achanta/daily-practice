@@ -141,6 +141,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 37
 - Studied currying in JavaScript
 
+## Day 38
+- Implemented memoization for performance optimization
+
 
 
 
