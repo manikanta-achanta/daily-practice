@@ -144,6 +144,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 38
 - Implemented memoization for performance optimization
 
+## Day 39
+- Studied deep copy vs shallow copy in JavaScript
+
 
 
 
