@@ -147,6 +147,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 39
 - Studied deep copy vs shallow copy in JavaScript
 
+## Day 40
+- Implemented JavaScript Module Pattern using IIFE
+
 
 
 
