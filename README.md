@@ -150,6 +150,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 40
 - Implemented JavaScript Module Pattern using IIFE
 
+## Day 41
+- Implemented Observer Pattern (Pub-Sub system)
+
 
 
 
