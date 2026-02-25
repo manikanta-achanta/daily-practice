@@ -153,6 +153,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 41
 - Implemented Observer Pattern (Pub-Sub system)
 
+## Day 42
+- Implemented Factory Pattern in JavaScript
+
 
 
 
