@@ -156,6 +156,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 42
 - Implemented Factory Pattern in JavaScript
 
+## Day 43
+- Implemented Singleton Pattern in JavaScript
+
 
 
 
