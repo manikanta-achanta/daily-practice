@@ -159,6 +159,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 43
 - Implemented Singleton Pattern in JavaScript
 
+## Day 44
+- Built Task Manager mini project using OOP + DOM + LocalStorage
+
 
 
 
