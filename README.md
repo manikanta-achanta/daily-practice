@@ -206,6 +206,9 @@ javascript revision (variables,functions,arrays,objects,loops).
 This repository represents 45 days of continuous learning and improvement.
 
 
+## successfully completed the javascript challenge.
+
+
 
 
 
