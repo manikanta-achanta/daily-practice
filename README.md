@@ -207,6 +207,7 @@ This repository represents 45 days of continuous learning and improvement.
 
 
 ## successfully completed the javascript challenge.
+-optimized some random files
 
 
 
