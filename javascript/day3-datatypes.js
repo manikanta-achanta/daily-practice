@@ -1,4 +1,6 @@
- var x=10
+       //datatypes examples 
+
+        var x=10
         console.log(x)
         console.log(typeof x)
 
